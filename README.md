@@ -1,1 +1,1 @@
-Lets learn the imp-lementation of UsernamePasswordAuthenticationToken, JWT, OAUTH2
+Lets learn the implementation of UsernamePasswordAuthenticationToken, JWT, OAUTH2
